@@ -191,8 +191,7 @@ Nós vamos ver este e mais padrões de projeto mais tarde neste livro.
 
 
 
-
-# <mark> Teste de Padronicidade, Proto-padrões e A Regra dos Três</mark>
+# Teste de Padronicidade, Proto-padrões e A Regra dos Três
 
 Lembre-se que nem todo algoritmo, melhores práticas ou solução representa o que pode ser considerado um padrão completo. Pode haver ingredientes aqui que foram perdidos e a comunidade de padrões é geralmente cautelosa em dizer que há um padrão específico para algo a menos que ele seja fortemente comprovado e testado. Mesmo que algo nos seja apresentado como um padrão e pareça satisfazer os critérios para assim ser denominado, ele não deve ser considerado um padrão até que passe por um períodos de testes e exames minunciosos.
 
@@ -219,6 +218,7 @@ Um dos requisitos adicionais para um padrão ser válido é que ele deve mostrar
 2. **Utilidade** - Por que este padrão é considerado bem sucedido?
 3. **Aplicabilidade** - O projeto é digno de ser um padrão, por ter uma aplicabilidade mais ampla? Caso seja, isso deve ser explicado. Ao rever ou definir um padrão, é importante manter o que foi dito acima em mente.
 
+```_______Marcador________```
 # A Estrutura de um Padrão de Projeto	
 
 Você deve estar curioso sobre como um autor de padrão aborda a estrutura definida, a implementação e o propósito de um novo padrão. Um padrão é inicialmente apresentado na forma de uma regra que estabelece uma relação entre:
