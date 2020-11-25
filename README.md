@@ -191,7 +191,8 @@ Nós vamos ver este e mais padrões de projeto mais tarde neste livro.
 
 
 
-# Teste de Padronicidade, Proto-padrões e A Regra dos Três 
+
+# <mark> Teste de Padronicidade, Proto-padrões e A Regra dos Três</mark>
 
 Lembre-se que nem todo algoritmo, melhores práticas ou solução representa o que pode ser considerado um padrão completo. Pode haver ingredientes aqui que foram perdidos e a comunidade de padrões é geralmente cautelosa em dizer que há um padrão específico para algo a menos que ele seja fortemente comprovado e testado. Mesmo que algo nos seja apresentado como um padrão e pareça satisfazer os critérios para assim ser denominado, ele não deve ser considerado um padrão até que passe por um períodos de testes e exames minunciosos.
 
